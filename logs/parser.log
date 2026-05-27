@@ -1,0 +1,98 @@
+2026-05-27 18:28:55 - parser - INFO - Extraindo dados de: Towards_atom-level_understanding_of_metal_oxide_catalysts_fo.pdf
+2026-05-27 18:28:57 - parser - INFO - Extração concluída: Towards_atom-level_understanding_of_metal_oxide_catalysts_fo.pdf | material=npj | computational materials | substrate=None | eta=None
+2026-05-27 18:28:57 - parser - INFO - Extraindo dados de: Machine_learning_assisted_Co3O4NiO_popsicle_sticks-infused_e.pdf
+2026-05-27 18:28:59 - parser - INFO - Extração concluída: Machine_learning_assisted_Co3O4NiO_popsicle_sticks-infused_e.pdf | material=Co3O4/ | substrate=nickel foam | eta=237
+2026-05-27 18:28:59 - parser - INFO - Extraindo dados de: Oxygen_evolution_reaction_on_IrO2110_is_governed_by_Walden-t.pdf
+2026-05-27 18:29:02 - parser - INFO - Extração concluída: Oxygen_evolution_reaction_on_IrO2110_is_governed_by_Walden-t.pdf | material=Article | substrate=carbon felt | eta=None
+2026-05-27 18:29:02 - parser - INFO - Extraindo dados de: Restructuring_highly_electron-deficient_metal-metal_oxides_f.pdf
+2026-05-27 18:29:04 - parser - INFO - Extração concluída: Restructuring_highly_electron-deficient_metal-metal_oxides_f.pdf | material=ARTICLE | substrate=foil | eta=156
+2026-05-27 18:29:04 - parser - INFO - Extraindo dados de: RuO2_electronic_structure_and_lattice_strain_dual_engineerin.pdf
+2026-05-27 18:29:07 - parser - INFO - Extração concluída: RuO2_electronic_structure_and_lattice_strain_dual_engineerin.pdf | material=ARTICLE | substrate=glassy carbon | eta=156
+2026-05-27 18:29:07 - parser - INFO - Extraindo dados de: Activated_chemical_bonds_in_nanoporous_and_amorphous_iridium.pdf
+2026-05-27 18:29:10 - parser - INFO - Extração concluída: Activated_chemical_bonds_in_nanoporous_and_amorphous_iridium.pdf | material=ARTICLE | substrate=carbon felt | eta=None
+2026-05-27 18:29:11 - parser - INFO - Extraindo dados de: Synergy_of_dual-atom_catalysts_deviated_from_the_scaling_rel.pdf
+2026-05-27 18:29:15 - parser - INFO - Extração concluída: Synergy_of_dual-atom_catalysts_deviated_from_the_scaling_rel.pdf | material=Article | substrate=mesh | eta=250
+2026-05-27 18:29:15 - parser - INFO - Extraindo dados de: Developing_new_electrocatalysts_for_oxygen_evolution_reactio.pdf
+2026-05-27 18:29:18 - parser - INFO - Extração concluída: Developing_new_electrocatalysts_for_oxygen_evolution_reactio.pdf | material=npj | computational materials | substrate=glassy carbon | eta=None
+2026-05-27 18:29:18 - parser - INFO - Extraindo dados de: Time-resolved_spectroscopy_uncovers_deprotonation-induced_re.pdf
+2026-05-27 18:29:20 - parser - INFO - Extração concluída: Time-resolved_spectroscopy_uncovers_deprotonation-induced_re.pdf | material=Article | substrate=glassy carbon | eta=235
+2026-05-27 18:29:22 - parser - INFO - Extraindo dados de: Machine-learning-guided_tungsten_single_atoms_promote_oxyhyd.pdf
+2026-05-27 18:29:26 - parser - INFO - Extração concluída: Machine-learning-guided_tungsten_single_atoms_promote_oxyhyd.pdf | material=Article | substrate=foil | eta=178
+2026-05-27 18:29:30 - parser - INFO - Extraindo dados de: First-principles_and_machine-learning_approaches_for_interpr.pdf
+2026-05-27 18:29:42 - parser - INFO - Extração concluída: First-principles_and_machine-learning_approaches_for_interpr.pdf | material=npj | 2D materials | substrate=carbon felt | eta=None
+2026-05-27 18:29:46 - parser - INFO - Extraindo dados de: Transfer_learning_guided_discovery_of_efficient_perovskite_o.pdf
+2026-05-27 18:29:50 - parser - INFO - Extração concluída: Transfer_learning_guided_discovery_of_efficient_perovskite_o.pdf | material=Article | substrate=glassy carbon | eta=315
+2026-05-27 18:29:54 - parser - INFO - Extraindo dados de: Universal_scaling_relations_for_the_rational_design_of_molec.pdf
+2026-05-27 18:29:56 - parser - INFO - Extração concluída: Universal_scaling_relations_for_the_rational_design_of_molec.pdf | material=ARTICLE | substrate=indium tin oxide | eta=400
+2026-05-27 18:30:02 - parser - INFO - Extraindo dados de: Intrinsic_metal-support_interactions_break_the_activity-stab.pdf
+2026-05-27 18:30:06 - parser - INFO - Extração concluída: Intrinsic_metal-support_interactions_break_the_activity-stab.pdf | material=Article | substrate=foil | eta=163
+2026-05-27 18:30:14 - parser - INFO - Extraindo dados de: Machine_learning-assisted_dual-atom_sites_design_with_interp.pdf
+2026-05-27 18:30:17 - parser - INFO - Extração concluída: Machine_learning-assisted_dual-atom_sites_design_with_interp.pdf | material=Article | substrate=foil | eta=340
+2026-05-27 18:52:37 - parser - INFO - Extraindo dados de: Towards_atom-level_understanding_of_metal_oxide_catalysts_fo.pdf
+2026-05-27 18:52:39 - parser - INFO - Extração concluída: Towards_atom-level_understanding_of_metal_oxide_catalysts_fo.pdf | material=None | substrate=None | eta=None
+2026-05-27 18:52:41 - parser - INFO - Extraindo dados de: Machine_learning_assisted_Co3O4NiO_popsicle_sticks-infused_e.pdf
+2026-05-27 18:52:44 - parser - INFO - Extração concluída: Machine_learning_assisted_Co3O4NiO_popsicle_sticks-infused_e.pdf | material=Co3O4/ | substrate=nickel foam | eta=237
+2026-05-27 18:52:46 - parser - INFO - Extraindo dados de: Oxygen_evolution_reaction_on_IrO2110_is_governed_by_Walden-t.pdf
+2026-05-27 18:52:50 - parser - INFO - Extração concluída: Oxygen_evolution_reaction_on_IrO2110_is_governed_by_Walden-t.pdf | material=None | substrate=carbon felt | eta=None
+2026-05-27 18:52:53 - parser - INFO - Extraindo dados de: Restructuring_highly_electron-deficient_metal-metal_oxides_f.pdf
+2026-05-27 18:52:57 - parser - INFO - Extração concluída: Restructuring_highly_electron-deficient_metal-metal_oxides_f.pdf | material=None | substrate=foil | eta=156
+2026-05-27 18:52:59 - parser - INFO - Extraindo dados de: RuO2electronic_structure_and_lattice_strain_dual_engineering.pdf
+2026-05-27 18:53:02 - parser - INFO - Extração concluída: RuO2electronic_structure_and_lattice_strain_dual_engineering.pdf | material=None | substrate=glassy carbon | eta=156
+2026-05-27 18:53:04 - parser - INFO - Extraindo dados de: Activated_chemical_bonds_in_nanoporous_and_amorphous_iridium.pdf
+2026-05-27 18:53:07 - parser - INFO - Extração concluída: Activated_chemical_bonds_in_nanoporous_and_amorphous_iridium.pdf | material=None | substrate=carbon felt | eta=None
+2026-05-27 18:53:09 - parser - INFO - Extraindo dados de: Designing_active_oxides_for_a_durable_oxygen_evolution_react.pdf
+2026-05-27 18:53:10 - parser - INFO - Extração concluída: Designing_active_oxides_for_a_durable_oxygen_evolution_react.pdf | material=None | substrate=None | eta=None
+2026-05-27 18:53:13 - parser - INFO - Extraindo dados de: Synergy_of_dual-atom_catalysts_deviated_from_the_scaling_rel.pdf
+2026-05-27 18:53:18 - parser - INFO - Extração concluída: Synergy_of_dual-atom_catalysts_deviated_from_the_scaling_rel.pdf | material=None | substrate=mesh | eta=250
+2026-05-27 18:53:19 - parser - INFO - Extraindo dados de: Developing_new_electrocatalysts_for_oxygen_evolution_reactio.pdf
+2026-05-27 18:53:22 - parser - INFO - Extração concluída: Developing_new_electrocatalysts_for_oxygen_evolution_reactio.pdf | material=None | substrate=glassy carbon | eta=None
+2026-05-27 18:53:24 - parser - INFO - Extraindo dados de: Time-resolved_spectroscopy_uncovers_deprotonation-induced_re.pdf
+2026-05-27 18:53:26 - parser - INFO - Extração concluída: Time-resolved_spectroscopy_uncovers_deprotonation-induced_re.pdf | material=None | substrate=glassy carbon | eta=235
+2026-05-27 18:53:29 - parser - INFO - Extraindo dados de: Earth-abundant_electrocatalysts_for_acidic_oxygen_evolution.pdf
+2026-05-27 18:53:32 - parser - INFO - Extração concluída: Earth-abundant_electrocatalysts_for_acidic_oxygen_evolution.pdf | material=None | substrate=glassy carbon | eta=None
+2026-05-27 18:53:34 - parser - INFO - Extraindo dados de: Machine-learning-guided_tungsten_single_atoms_promote_oxyhyd.pdf
+2026-05-27 18:53:37 - parser - INFO - Extração concluída: Machine-learning-guided_tungsten_single_atoms_promote_oxyhyd.pdf | material=None | substrate=foil | eta=178
+2026-05-27 18:53:39 - parser - INFO - Extraindo dados de: Active_learning_guides_discovery_of_a_champion_four-metal_pe.pdf
+2026-05-27 18:53:40 - parser - INFO - Extração concluída: Active_learning_guides_discovery_of_a_champion_four-metal_pe.pdf | material=None | substrate=None | eta=None
+2026-05-27 18:53:43 - parser - INFO - Extraindo dados de: Developing_machine_learning_for_heterogeneous_catalysis_with.pdf
+2026-05-27 18:53:46 - parser - INFO - Extração concluída: Developing_machine_learning_for_heterogeneous_catalysis_with.pdf | material=None | substrate=None | eta=None
+2026-05-27 18:53:48 - parser - INFO - Extraindo dados de: Dynamics_in_electrochemical_organic_oxidation_reactions_from.pdf
+2026-05-27 18:53:51 - parser - INFO - Extração concluída: Dynamics_in_electrochemical_organic_oxidation_reactions_from.pdf | material=None | substrate=nickel foam | eta=None
+2026-05-27 18:53:53 - parser - INFO - Extraindo dados de: Stable_acidic_oxygen-evolving_catalyst_discovery_through_mix.pdf
+2026-05-27 18:53:54 - parser - INFO - Extração concluída: Stable_acidic_oxygen-evolving_catalyst_discovery_through_mix.pdf | material=None | substrate=glassy carbon | eta=194
+2026-05-27 18:53:57 - parser - INFO - Extraindo dados de: First-principles_and_machine-learning_approaches_for_interpr.pdf
+2026-05-27 18:54:11 - parser - INFO - Extração concluída: First-principles_and_machine-learning_approaches_for_interpr.pdf | material=None | substrate=carbon felt | eta=None
+2026-05-27 18:54:13 - parser - INFO - Extraindo dados de: Transfer_learning_guided_discovery_of_efficient_perovskite_o.pdf
+2026-05-27 18:54:18 - parser - INFO - Extração concluída: Transfer_learning_guided_discovery_of_efficient_perovskite_o.pdf | material=None | substrate=glassy carbon | eta=315
+2026-05-27 18:54:19 - parser - INFO - Extraindo dados de: Universal_scaling_relations_for_the_rational_design_of_molec.pdf
+2026-05-27 18:54:22 - parser - INFO - Extração concluída: Universal_scaling_relations_for_the_rational_design_of_molec.pdf | material=None | substrate=indium tin oxide | eta=400
+2026-05-27 18:54:25 - parser - INFO - Extraindo dados de: Intrinsic_metal-support_interactions_break_the_activity-stab.pdf
+2026-05-27 18:54:29 - parser - INFO - Extração concluída: Intrinsic_metal-support_interactions_break_the_activity-stab.pdf | material=None | substrate=foil | eta=163
+2026-05-27 18:54:32 - parser - INFO - Extraindo dados de: Covalency_competition_dominates_the_water_oxidation_structur.pdf
+2026-05-27 18:54:34 - parser - INFO - Extração concluída: Covalency_competition_dominates_the_water_oxidation_structur.pdf | material=None | substrate=None | eta=None
+2026-05-27 18:54:36 - parser - INFO - Extraindo dados de: Revisiting_the_universal_principle_for_the_rational_design_o.pdf
+2026-05-27 18:54:39 - parser - INFO - Extração concluída: Revisiting_the_universal_principle_for_the_rational_design_o.pdf | material=None | substrate=None | eta=None
+2026-05-27 18:56:16 - parser - INFO - Extraindo dados de: Lattice_OO_ligands_in_Fe-incorporated_hydroxides_enhance_wat.pdf
+2026-05-27 18:57:13 - parser - INFO - Extraindo dados de: Lattice_OO_ligands_in_Fe-incorporated_hydroxides_enhance_wat.pdf
+2026-05-27 18:58:16 - parser - INFO - Extraindo dados de: Lattice_OO_ligands_in_Fe-incorporated_hydroxides_enhance_wat.pdf
+2026-05-27 18:58:16 - parser - WARNING - Não foi possível encontrar a âncora no texto do PDF: Lattice_OO_ligands_in_Fe-incorporated_hydroxides_enhance_wat.pdf
+2026-05-27 18:59:05 - parser - INFO - Extraindo dados de: Lattice_OO_ligands_in_Fe-incorporated_hydroxides_enhance_wat.pdf
+2026-05-27 19:00:04 - parser - INFO - Extraindo dados de: Lattice_OO_ligands_in_Fe-incorporated_hydroxides_enhance_wat.pdf
+2026-05-27 19:00:05 - parser - INFO - Extração concluída: Lattice_OO_ligands_in_Fe-incorporated_hydroxides_enhance_wat.pdf | material=None | substrate=None | eta=None
+2026-05-27 19:00:07 - parser - INFO - Extraindo dados de: Machine_learning-assisted_dual-atom_sites_design_with_interp.pdf
+2026-05-27 19:00:10 - parser - INFO - Extração concluída: Machine_learning-assisted_dual-atom_sites_design_with_interp.pdf | material=0.941/0.937 V | substrate=foil | eta=340
+2026-05-27 19:00:12 - parser - INFO - Extraindo dados de: Direct_seawater_electrolysis_for_hydrogen_production.pdf
+2026-05-27 19:00:14 - parser - INFO - Extração concluída: Direct_seawater_electrolysis_for_hydrogen_production.pdf | material=None | substrate=None | eta=None
+2026-05-27 19:00:15 - parser - INFO - Extraindo dados de: Acid-stable_manganese_oxides_for_proton_exchange_membrane_wa.pdf
+2026-05-27 19:00:16 - parser - INFO - Extração concluída: Acid-stable_manganese_oxides_for_proton_exchange_membrane_wa.pdf | material=None | substrate=None | eta=None
+2026-05-27 19:00:18 - parser - INFO - Extraindo dados de: A_practical_inverse_design_approach_for_high-entropy_catalys.pdf
+2026-05-27 19:00:19 - parser - INFO - Extração concluída: A_practical_inverse_design_approach_for_high-entropy_catalys.pdf | material=None | substrate=None | eta=None
+2026-05-27 19:00:24 - parser - INFO - Extraindo dados de: Parameterization_and_quantification_of_two_key_operando_phys.pdf
+2026-05-27 19:00:30 - parser - INFO - Extração concluída: Parameterization_and_quantification_of_two_key_operando_phys.pdf | material=None | substrate=carbon paper | eta=None
+2026-05-27 19:00:36 - parser - INFO - Extraindo dados de: Machine_learning-guided_design_of_energy-related_catalysts_f.pdf
+2026-05-27 19:00:41 - parser - INFO - Extração concluída: Machine_learning-guided_design_of_energy-related_catalysts_f.pdf | material=None | substrate=None | eta=None
+2026-05-27 19:00:43 - parser - INFO - Extraindo dados de: Automated_synthesis_of_oxygen-producing_catalysts_from_Marti.pdf
+2026-05-27 19:00:44 - parser - INFO - Extração concluída: Automated_synthesis_of_oxygen-producing_catalysts_from_Marti.pdf | material=10 mA cm−2 | substrate=None | eta=445
+2026-05-27 19:00:47 - parser - INFO - Extraindo dados de: Topological_quantum_materials_for_energy_conversion_and_stor.pdf
+2026-05-27 19:00:49 - parser - INFO - Extração concluída: Topological_quantum_materials_for_energy_conversion_and_stor.pdf | material=None | substrate=None | eta=None
+2026-05-27 19:00:55 - parser - INFO - Extraindo dados de: Optimizing_cross-domain_transfer_for_universal_machine_learn.pdf

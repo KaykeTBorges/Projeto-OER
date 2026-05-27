@@ -1,0 +1,32 @@
+doi,source_pdf,title,abstract,material,substrate,electrolyte,overpotential_mV,current_density,confidence,anchor_found,anchor_sentence
+10.1038/s41524-024-01273-y,Towards_atom-level_understanding_of_metal_oxide_catalysts_fo.pdf,npj | computational materials,,,,,,,0.0,False,
+10.1038/s41598-025-95130-7,Machine_learning_assisted_Co3O4NiO_popsicle_sticks-infused_e.pdf,Machine learning assisted Co3O4/,,Co3O4/,nickel foam,1 M KOH,237,10,1.0,True,"RHE), overpotential (237 mV at 10 mA cm−2) and Tafel slope of 62.1 mV dec−1."
+10.1038/s41467-025-61367-z,Oxygen_evolution_reaction_on_IrO2110_is_governed_by_Walden-t.pdf,Article,,,carbon felt,,,,0.2,False,
+10.1038/s41467-021-26025-0,Restructuring_highly_electron-deficient_metal-metal_oxides_f.pdf,ARTICLE,,,foil,0.5 M H2SO4,156,10,0.75,True,"Remarkably, IMO with an electron-deﬁcient metal surface (Irx+; x > 4) exhibit a low overpotential of only ~156 mV at 10 mA cm−2 and excellent durability in acidic media due to the high oxidation state of metal on MoO3."
+10.1038/s41467-022-31468-0,RuO2electronic_structure_and_lattice_strain_dual_engineering.pdf,ARTICLE,,,glassy carbon,0.5 M H2SO4,156,10,0.75,True,We ﬁnd that the OER activity of the formed LixRuO2 solid solution phase increases with the nominal lithium concentration (x) and reaches a record low overpotential of 156 mV at 10 mA cm−2 in 0.5 M H2SO4 when x reaches 0.52.
+10.1038/s41467-022-30838-y,Activated_chemical_bonds_in_nanoporous_and_amorphous_iridium.pdf,ARTICLE,,,carbon felt,,,,0.2,False,
+,Designing_active_oxides_for_a_durable_oxygen_evolution_react.pdf,Skip to main content,,,,,,,0.0,False,
+10.1038/s41467-023-40177-1,Synergy_of_dual-atom_catalysts_deviated_from_the_scaling_rel.pdf,Article,,,mesh,,250,10,0.65,True,"Moreover, P-doped FeNi@NC showed a low overpotential of 250 mV at a current density of 10 mA cm−2 47."
+10.1038/s41524-024-01386-4,Developing_new_electrocatalysts_for_oxygen_evolution_reactio.pdf,npj | computational materials,,,glassy carbon,,,,0.2,False,
+10.1038/s41467-025-56070-y,Time-resolved_spectroscopy_uncovers_deprotonation-induced_re.pdf,Article,,,glassy carbon,1 M KOH,235,10,0.75,True,"Subsequently, linear sweep voltammetry (LSV) measurements reveal that the Ni0.83Fe0.17 LDH, doped with 17 wt% Fe, exhibits notable OER activity, achieving an overpotential of 235 mV at a current density of 10 mA cm−2 (Fig."
+,Earth-abundant_electrocatalysts_for_acidic_oxygen_evolution.pdf,Skip to main content,,,glassy carbon,1 M H2SO4,,,0.3,False,
+10.1038/s41467-026-68735-3,Machine-learning-guided_tungsten_single_atoms_promote_oxyhyd.pdf,Article,,,foil,1 M KOH,178,10,0.75,True,"Among the tested catalysts, electrodeposited W1–NiFeOOH achieved the onset overpotential of 178 mV at 10 mA cm−2, which was lower than the values obtained for Ir1–NiFeOOH (183 mV), NiFeOOH (214 mV), and a commercial IrO2/C powder-based electrode (Supple- mentary Fig."
+,Active_learning_guides_discovery_of_a_champion_four-metal_pe.pdf,Skip to main content,,,,,,,0.0,False,
+,Developing_machine_learning_for_heterogeneous_catalysis_with.pdf,Skip to main content,,,,,,,0.0,False,
+,Dynamics_in_electrochemical_organic_oxidation_reactions_from.pdf,Skip to main content,,,nickel foam,,,,0.2,False,
+,Stable_acidic_oxygen-evolving_catalyst_discovery_through_mix.pdf,Skip to main content,,,glassy carbon,,194,10,0.65,True,"The most balanced composition, Ru0.5Zr0.1Zn0.4Ox, achieved an overpotential of 194 mV at 10 mA cm−2 with a ruthenium dissolution rate 12 times lower than that of RuO2."
+10.1038/s41699-025-00529-5,First-principles_and_machine-learning_approaches_for_interpr.pdf,npj | 2D materials and applications,,,carbon felt,,,,0.2,False,
+10.1038/s41467-024-50605-5,Transfer_learning_guided_discovery_of_efficient_perovskite_o.pdf,Article,,,glassy carbon,1 M KOH,315,10,0.75,True,"Pr0.1Sr0.9Co0.5Fe0.5O3 and Pr0.1Sr0.9Co0.5Fe0.3Mn0.2O3 exhibit low overpotentials of 327 mV and 315 mV at 10 mA cm−2, respectively."
+10.1038/s41467-019-12994-w,Universal_scaling_relations_for_the_rational_design_of_molec.pdf,ARTICLE,,,indium tin oxide,,400,10,0.65,True,"Catalysts which are cost-effective, highly active and robust for continued periods of time are yet to be found for this endergonic reaction, which demands large over- potentials (≥400 mV) to reach substantial current densities (≥10 mA/cm2) and oxygen conversion rates7,8."
+10.1038/s41467-025-63397-z,Intrinsic_metal-support_interactions_break_the_activity-stab.pdf,Article,,,foil,0.5 M H2SO4,163,10,0.75,True,"The predicted lowest overpotential to drive a current density of 10 mA cm−2 is 163.0 mV, corresponding to a ratio of 0.26: 0.26: 0.48 (Ru: Ti: Mn)."
+,Covalency_competition_dominates_the_water_oxidation_structur.pdf,Skip to main content,,,,,,,0.0,False,
+,Revisiting_the_universal_principle_for_the_rational_design_o.pdf,Skip to main content,,,,,,,0.0,False,
+,Lattice_OO_ligands_in_Fe-incorporated_hydroxides_enhance_wat.pdf,Skip to main content,,,,,,,0.0,False,
+10.1038/s41467-024-52519-8,Machine_learning-assisted_dual-atom_sites_design_with_interp.pdf,Article,,0.941/0.937 V,foil,0.1 M KOH,340,10,1.0,True,"Additionally, predicted as the optimal bifunctional ORR/OER catalysts, our synthesized Co-Co/Ir-Qv3 experimentally shows not only a remarkable half-wave potential of 0.941/0.937 V for ORR but also a small overpotential of 330/340 mV at 10 mA cm−2 for OER."
+,Direct_seawater_electrolysis_for_hydrogen_production.pdf,Skip to main content,,,,,,,0.0,False,
+,Acid-stable_manganese_oxides_for_proton_exchange_membrane_wa.pdf,Skip to main content,,,,1 M H2SO4,,,0.1,False,
+,A_practical_inverse_design_approach_for_high-entropy_catalys.pdf,Skip to main content,,,,,,,0.0,False,
+10.1038/s41467-024-54318-7,Parameterization_and_quantification_of_two_key_operando_phys.pdf,Article,,,carbon paper,1 M KOH,,,0.3,False,
+10.1038/s42004-026-01967-y,Machine_learning-guided_design_of_energy-related_catalysts_f.pdf,communications chemistry,,,,,,,0.0,False,
+,Automated_synthesis_of_oxygen-producing_catalysts_from_Marti.pdf,Skip to main content,,10 mA cm−2,,,445,10,0.7,True,"The synthesized catalyst operates at a current density of 10 mA cm−2 for over 550,000 s of operation with an overpotential of 445.1 mV, demonstrating the feasibility of the artificial-intelligence chemist in the automated synthesis of chemicals and materials for Mars exploration."
+,Topological_quantum_materials_for_energy_conversion_and_stor.pdf,Skip to main content,,,,,,,0.0,False,

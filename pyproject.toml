@@ -8,7 +8,11 @@ dependencies = [
     "beautifulsoup4>=4.12.0",
     "pymupdf>=1.25.0",
     "requests>=2.32.0",
-    "spacy>=3.8.0",
+    "scispacy>=0.5.4",
+    "spacy<3.8.0",
+    "en-core-sci-lg @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_lg-0.5.4.tar.gz",
+    "click>=8.4.1",
+    "pandas>=3.0.3",
 ]
 
 [project.scripts]

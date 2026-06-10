@@ -43,3 +43,15 @@ def get_pipeline_logger():
 
 def get_ml_logger():
     return setup_logger("ml", "ml_pipeline.log")
+
+def get_extractor_logger():
+    return setup_logger("extractor_material", "material_extractor.log")
+
+def get_extractor_overpotential_logger():
+    return setup_logger("extractor_overpotential", "overpotential_extractor.log")
+
+def get_extractor_substrate_logger():
+    return setup_logger("extractor_substrate", "substrate_extractor.log")
+
+def get_extractor_anchor_logger():
+    return setup_logger("extractor_anchor", "anchor_extractor.log")

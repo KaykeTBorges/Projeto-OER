@@ -12,8 +12,11 @@ class OERRecord:
     substrate: Optional[str]
     electrolyte: Optional[str]
     overpotential_mV: Optional[int]
-    current_density: Optional[int]
+    current_density: Optional[float]
+    potential_V: Optional[float]
+    performance_source: Optional[str]
     confidence: float
+    extraction_note: str
     anchor_found: bool
     anchor_sentence: Optional[str]
 

@@ -13,7 +13,8 @@ logs/
 *.log
 
 # PDFs baixados
-pdfs/
+pdfs/*
+!pdfs/.gitkeep
 
 # Ambiente
 .env
